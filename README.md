@@ -1,4 +1,5 @@
 # Frontend Mentor - Stats preview card component
+https://akerele180.github.io/Stats-Preview-Card-Componen/
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
